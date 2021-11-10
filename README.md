@@ -2,7 +2,7 @@
 
 [Link to final presentation](https://docs.google.com/presentation/d/1wunxrt0I8V_x03g7h9n1G0RdKat9icyoEUHyc_WEW8E/edit?usp=sharing)
 
-[Tableu Link](https://prod-useast-b.online.tableau.com/#/site/citibikeheatmap/workbooks/270847?:origin=card_share_link)
+[Tableau Link](https://prod-useast-b.online.tableau.com/#/site/citibikeheatmap/workbooks/270847?:origin=card_share_link)
 
 ## Abstract
 
