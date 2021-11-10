@@ -24,9 +24,9 @@ In total filtered data contains 83,700 rows and 25 columns.
 
 ## Tools
 
-Cloudfare Workers
-Fauna DB
-Python for Data Processing
-Microsoft Excel
-Tableau for interactive visualizations
+* Cloudfare Workers
+* Fauna DB
+* Python for Data Processing
+* Microsoft Excel
+* Tableau for interactive visualizations
 
