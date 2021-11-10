@@ -1,1 +1,2 @@
-# citi-bike-availability
+# Citi Bike Optimization - Analysis on stations reliability
+
