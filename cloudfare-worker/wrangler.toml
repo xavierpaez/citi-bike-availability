@@ -1,0 +1,12 @@
+name = "citi-bike-nyc"
+type = "webpack"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2021-10-26"
+account_id = "0e1f61f6fbc169605ba0a87c31c2d6ab"
+
+[triggers]
+crons = ["*/2 * * * *"]
